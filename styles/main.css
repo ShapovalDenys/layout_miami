@@ -131,7 +131,6 @@
             justify-content: center; }
   .nav__item {
     margin: 0 26px;
-    list-style-type: none;
     white-space: nowrap; }
     .nav__item_active {
       background: rgba(255, 255, 255, 0.1);
@@ -233,6 +232,9 @@ address {
 
 a {
   text-decoration: none; }
+
+li {
+  list-style-type: none; }
 
 .section {
   padding: 100px calc(50% - 510px);
