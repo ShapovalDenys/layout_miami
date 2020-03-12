@@ -256,6 +256,9 @@ a {
 li {
   list-style-type: none; }
 
+textarea {
+  resize: none; }
+
 .section {
   padding: 100px calc(50% - 510px);
   position: relative;
@@ -335,6 +338,14 @@ li {
   -webkit-box-pack: justify;
       -ms-flex-pack: justify;
           justify-content: space-between; }
+  .photos img {
+    -webkit-transform: scale(1);
+            transform: scale(1);
+    -webkit-transition: all 0.3s;
+    transition: all 0.3s; }
+  .photos:hover img {
+    -webkit-transform: scale(1.02);
+            transform: scale(1.02); }
   .photos__img {
     width: calc(50% - 10px);
     height: 256px;
@@ -502,6 +513,7 @@ li {
   .contact__form {
     width: 413px; }
   .contact__button {
+    margin-top: 10px;
     background: #0067df;
     -webkit-box-shadow: 0 13px 27px rgba(0, 83, 181, 0.46);
             box-shadow: 0 13px 27px rgba(0, 83, 181, 0.46);
