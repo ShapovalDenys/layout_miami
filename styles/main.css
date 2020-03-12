@@ -183,6 +183,8 @@
 @media screen and (max-width: 1080px) {
   .nav__list {
     display: none; }
+  .nav__link {
+    font-size: 20px; }
   .nav__toggler-label,
   .nav__toggler:checked ~ .nav__list {
     display: inline-block; }
