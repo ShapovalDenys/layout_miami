@@ -267,6 +267,9 @@ li {
 textarea {
   resize: none; }
 
+html {
+  overflow-x: hidden; }
+
 .section {
   padding: 100px calc(50% - 510px);
   position: relative;
