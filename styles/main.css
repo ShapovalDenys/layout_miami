@@ -23,6 +23,9 @@ h6,
 address {
   scroll-behavior: smooth; }
 
+body {
+  overflow: hidden; }
+
 .header__logo {
   width: 115px;
   height: 76px;
@@ -54,6 +57,9 @@ h5,
 h6,
 address {
   scroll-behavior: smooth; }
+
+body {
+  overflow: hidden; }
 
 .header {
   height: 700px;
@@ -182,6 +188,9 @@ h5,
 h6,
 address {
   scroll-behavior: smooth; }
+
+body {
+  overflow: hidden; }
 
 .nav {
   color: black;
@@ -346,6 +355,9 @@ h6,
 address {
   scroll-behavior: smooth; }
 
+body {
+  overflow: hidden; }
+
 .section {
   padding: 100px calc(50% - 510px);
   position: relative;
@@ -379,6 +391,9 @@ h5,
 h6,
 address {
   scroll-behavior: smooth; }
+
+body {
+  overflow: hidden; }
 
 .info {
   display: -webkit-box;
@@ -435,6 +450,9 @@ h6,
 address {
   scroll-behavior: smooth; }
 
+body {
+  overflow: hidden; }
+
 .heading {
   font-weight: bold;
   font-size: 48px;
@@ -474,6 +492,9 @@ h5,
 h6,
 address {
   scroll-behavior: smooth; }
+
+body {
+  overflow: hidden; }
 
 .photos {
   display: -webkit-box;
@@ -536,6 +557,9 @@ h6,
 address {
   scroll-behavior: smooth; }
 
+body {
+  overflow: hidden; }
+
 .gallery__caption {
   margin: 24px 0 40px; }
 
@@ -568,6 +592,9 @@ h6,
 address {
   scroll-behavior: smooth; }
 
+body {
+  overflow: hidden; }
+
 .button {
   font-weight: bold;
   color: #0075ff;
@@ -598,6 +625,9 @@ h5,
 h6,
 address {
   scroll-behavior: smooth; }
+
+body {
+  overflow: hidden; }
 
 .consultation {
   display: -webkit-box;
@@ -645,6 +675,9 @@ h6,
 address {
   scroll-behavior: smooth; }
 
+body {
+  overflow: hidden; }
+
 .form {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -690,6 +723,9 @@ h6,
 address {
   scroll-behavior: smooth; }
 
+body {
+  overflow: hidden; }
+
 .input {
   font-size: 14px;
   line-height: 48px;
@@ -720,6 +756,9 @@ h5,
 h6,
 address {
   scroll-behavior: smooth; }
+
+body {
+  overflow: hidden; }
 
 .testimonials {
   display: grid;
@@ -752,6 +791,9 @@ h5,
 h6,
 address {
   scroll-behavior: smooth; }
+
+body {
+  overflow: hidden; }
 
 .person {
   text-align: center; }
@@ -791,6 +833,9 @@ h5,
 h6,
 address {
   scroll-behavior: smooth; }
+
+body {
+  overflow: hidden; }
 
 .contact {
   display: -webkit-box;
@@ -864,6 +909,9 @@ h6,
 address {
   scroll-behavior: smooth; }
 
+body {
+  overflow: hidden; }
+
 .footer {
   height: 359px;
   position: -webkit-sticky;
@@ -905,5 +953,8 @@ h5,
 h6,
 address {
   scroll-behavior: smooth; }
+
+body {
+  overflow: hidden; }
 
 /*# sourceMappingURL=main.css.map */
